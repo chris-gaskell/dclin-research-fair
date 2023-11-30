@@ -1,0 +1,266 @@
+---
+from: markdown+emoji
+format:
+  revealjs:
+    include-in-header: 
+      text: |
+        <meta name="github-repo" content="chris-gaskell/dclin-research-fair"/>
+        <meta name="twitter:title" content="DClinPsy Research Fair: Dr Chris Gaskell"/>
+        <meta name="twitter:description" content="Slides to present to the 2023 cohort of DClinPsy trainees at the University of Staffordshire."/>
+        <meta name="twitter:url" content="https://dclin-research-fair.netlify.app"/>
+        <meta name="twitter:creator" content="@chrisgaskell92/>
+        <meta name="twitter:site" content="@chrisgaskell92"/>
+    smaller: false
+    scrollable: true
+    incremental: false
+    theme: [simple, custom.scss]
+    preview-links: false
+    preload-iframes: false
+    chalkboard: true
+    author: "Dr. Chris Gaskell"
+    institute: "Neuropsychology <br> North Staffordshire Combined Healthcare NHS Foundation Trust"
+    footer: "**DClinPsy Research Fair**: Dr. Chris Gaskell (Neuropsychology)"
+    transition: slide
+    background-transition: fade
+    transition-speed: slow
+    footnotes-hover: true
+    filters: 
+      - designmode
+---
+
+## DClinPsy Research Fair: {background-color="#01364C" style="font-size: 35px; text-align: center;"}
+
+### Dr Chris Gaskell
+
+<br>
+
+::: {style="text-align: center"}
+*for:*
+:::
+
+<br>
+
+**University of Staffordshire DClinPsy Programme**
+
+30/11/2023
+
+<br>
+
+::: {style="text-align: center"}
+For access to these slides:<br> [https://dclin-research-fair.netlify.app](https://clinical-academic-interview.netlify.app){.uri style="text-align: center"}
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="60%" style="text-align: center"}
+![](chris.jpg){style="border-radius: 50%; box-shadow: 0 0 30px black;" width="230"}
+
+### Dr. Chris Gaskell
+
+::: {style="font-size: 24px; text-align: center"}
+Senior Clinical Psychologist & Clinical Academic[^1]
+
+Neuropsychology
+
+North Staffordshire Combined Healthcare NHS Trust
+:::
+
+::: {.column width="40%" style="text-align: center"}
+:::
+:::
+:::
+
+[^1]: Also an Honorary Researcher for University of Sheffield
+
+------------------------------------------------------------------------
+
+## My Primary Work Streams
+
+::: incremental
+1.  Novel [**Electronic Interventions**]{style="color:#0072CE"} for Neuropsychology.
+2.  [**Data Driven**]{style="color:#0072CE"} approaches for evaluating [**Outcome Research**]{style="color:#0072CE"}.
+3.  [**Data Tools**]{style="color:#0072CE"} (apps) to improve service efficiency and quality.
+4.  Building [**Normative Data**]{style="color:#0072CE"} for neurological conditions.
+:::
+
+## Skills and Experience
+
+#### Research :lab_coat:
+
+-   Quantitative methodology (Meta-Analysis, SCED, MLM).
+
+-   10 x Peer-reviewed journal articles.
+
+#### Data Science :nerd_face: :chart_with_upwards_trend:
+
+-   R programming environment.
+
+-   Data Visualisation.
+
+#### Web Development :computer:
+
+-   HTML Products (websites, slides, e-books).
+
+-   Data Driven Web Applications.
+
+## Examples of Works Produced {background-color="white"}
+
+::: columns
+::: {.column width="50%"}
+![HTML web application for assessing for statistical change in cognitive abilities.](Screenshot%202023-10-15%20at%2010.42.49.jpg){alt="HTML web application for assessing for statistical change in cognitive abilities."}
+:::
+
+::: {.column width="50%"}
+![Screenshot of most recent peer-reviewed journal article, published in Epilepsia.](Screenshot%202023-10-15%20at%2010.39.33.jpg){alt="Screenshot of most recent peer-reviewed journal article, published in Epilepsia."}
+:::
+:::
+
+::: {style="text-align: center; padding: 200px 0;"}
+# The Rest of the Department {background-color="#01364C"}
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="50%" style="font-size: 18px"}
+![](Staffs%20Pres/gemma_w.png){style="border-radius: 50%; box-shadow: 0 0 30px black;" width="150" height="214"}
+
+![](Staffs%20Pres/gill.jpg){style="border-radius: 50%; box-shadow: 0 0 30px black;" width="150" height="214"}
+
+### Dr. Gemma Wall & Dr. Gill Cooke
+
+Consultant Clinical Psychologists
+
+Neuropsychology
+
+North Staffordshire Combined Healthcare NHS Trust
+:::
+
+::: {.column width="50%" style="text-align: left; font-size: 18px"}
+### Project Areas:
+
+-   Neurology & Neurosurgery.
+-   Quantitative and qualitative projects.
+-   Large database of information collected on Awake craniotomy patients, and consent forms already in place.
+-   Projects also possible in Multiple Sclerosis, Epilepsy and Vagus Nerve Stimulation surgery, rarer and younger onset Dementias, cognitive rehabilitation
+-   Prehab and rehab in neuro-oncology/pituitary and skull base tumours
+-   BMIPB-II
+-   ADHD project may be possible in conjunction with CMHTs
+-   Possible joint project with IAPT on long term conditions
+-   Possible joint project with neuropsychiatry on Tics/Tourette's
+
+[Gemma.Wall\@combined.nhs.uk](mailto:%20Gemma.Wall@combined.nhs.uk)
+
+[Gill.Cooke\@combined.nhs.uk](mailto:%20Gill.Cooke@combined.nhs.uk)
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="50%" style="font-size: 18px"}
+![](Staffs%20Pres/anty-photo.jpg){style="border-radius: 50%; box-shadow: 0 0 30px black;" width="284"}
+
+### Dr. Antonia Kirkby
+
+#### Consultant Clinical Psychologist
+
+#### Neuropsychology
+
+#### North Staffordshire Combined Healthcare NHS Trust
+:::
+
+::: {.column width="50%" style="text-align: left; font-size: 24px"}
+### Project Areas:
+
+-   FND.
+-   Looking at ACT variables and interoception.
+-   Looking at small t trauma and its relevance to aetiology.
+
+[Antonia.Kirkby\@combined.nhs.uk](mailto:%20Antonia.Kirkby@combined.nhs.uk)
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="50%" style="font-size: 18px"}
+![](Staffs%20Pres/cara.jpg){style="border-radius: 50%; box-shadow: 0 0 30px black;" width="230" height="274"}
+
+### Dr. Cara Thompson
+
+#### Principal Clinical Psychologist
+
+#### Neuropsychology
+
+#### North Staffordshire Combined Healthcare NHS Trust
+:::
+
+::: {.column width="50%" style="text-align: left; font-size: 24px"}
+### Project Areas:
+
+-   Neurology and Neuro-oncology
+-   Psychological flexibility and ACT processes.
+-   Life limiting neurological conditions -- MND, tumours etc.
+-   Women's health e.g. impact of peri-menopause, menopause, PMS, on cognition, mood and other factors.
+-   Happy to discuss.
+
+[Cara.Thompson\@combined.nhs.uk](mailto:Cara.Thompson@combined.nhs.uk)
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="20%" style="font-size: 18px"}
+### Dr. Callum Furniss
+
+#### Senior Clinical Psychologist
+
+#### Neuropsychology
+
+#### North Staffordshire Combined Healthcare NHS Trust
+
+[Callum.Furniss\@combined.nhs.uk](mailto:%20Callum.Furniss@combined.nhs.uk)
+:::
+
+::: {.column width="80%" style="text-align: left; font-size: 16px"}
+### Project Areas:
+
+### Test anxiety & neuropsychological assessment
+
+#### Past Literature:
+
+**Dorenkamp et al., 2020:**
+
+-   Developed questionnaire for test anxiety (Feelings About Neuropsychological Testing measure FANT) and validated this in non-clinical older adults (55+).
+
+-   Correlated with other measures of anxiety and subjective cognitive concerns, showing some validity
+
+**Dorenkamp et al., 2023:**
+
+-   Test anxiety (on FANT) predicted (regression) performance on executive functioning measures, verbal learning and memory repetition errors, visual learning, and visual learning repetition errors, but not general anxiety (GAD-7)
+
+#### Proposal:
+
+-   Re-validation of the measure in a general clinical neuropsychology service for all ages (not just 55+).
+-   Aim to replicate to replicate the finding that test anxiety, but not general anxiety is related to test performance.
+-   Which cognitive areas does test anxiety impact most?
+
+**Why?** helpful to in clinical practice to inform interpretation of NP results in cases why test anxiety is high
+
+#### References
+
+-   Dorenkamp, M. A., Irrgang, M., & Vik, P. (2023). Assessment-related anxiety among older adults: associations with neuropsychological test performance.Aging, Neuropsychology, and Cognition,30(2), 256-271.
+-   Dorenkamp, M. A., & Vik, P. (2021). Assessment-related anxiety among older adults: development of a measure.Aging, Neuropsychology, and Cognition,28(5), 781-795.
+:::
+:::
+
+## Departmental Publications
+
+::: {style="text-align: center; padding: 200px 0;"}
+# Good Luck With Your Projects {background-color="#01364C"}
+
+:handshake:
+:::
