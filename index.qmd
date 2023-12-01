@@ -64,6 +64,8 @@ Senior Clinical Psychologist & Clinical Academic[^1]
 Neuropsychology
 
 North Staffordshire Combined Healthcare NHS Trust
+
+[christopher.gaskell\@combined.nhs.uk](mailto:christopher.gaskell@combined.nhs.uk)
 :::
 
 ::: {.column width="40%" style="text-align: center"}
@@ -75,50 +77,8 @@ North Staffordshire Combined Healthcare NHS Trust
 
 ------------------------------------------------------------------------
 
-## My Primary Work Streams
 
-::: incremental
-1.  Novel [**Electronic Interventions**]{style="color:#0072CE"} for Neuropsychology.
-2.  [**Data Driven**]{style="color:#0072CE"} approaches for evaluating [**Outcome Research**]{style="color:#0072CE"}.
-3.  [**Data Tools**]{style="color:#0072CE"} (apps) to improve service efficiency and quality.
-4.  Building [**Normative Data**]{style="color:#0072CE"} for neurological conditions.
-:::
-
-## Skills and Experience
-
-#### Research :lab_coat:
-
--   Quantitative methodology (Meta-Analysis, SCED, MLM).
-
--   10 x Peer-reviewed journal articles.
-
-#### Data Science :nerd_face: :chart_with_upwards_trend:
-
--   R programming environment.
-
--   Data Visualisation.
-
-#### Web Development :computer:
-
--   HTML Products (websites, slides, e-books).
-
--   Data Driven Web Applications.
-
-## Examples of Works Produced {background-color="white"}
-
-::: columns
-::: {.column width="50%"}
-![HTML web application for assessing for statistical change in cognitive abilities.](Screenshot%202023-10-15%20at%2010.42.49.jpg){alt="HTML web application for assessing for statistical change in cognitive abilities."}
-:::
-
-::: {.column width="50%"}
-![Screenshot of most recent peer-reviewed journal article, published in Epilepsia.](Screenshot%202023-10-15%20at%2010.39.33.jpg){alt="Screenshot of most recent peer-reviewed journal article, published in Epilepsia."}
-:::
-:::
-
-::: {style="text-align: center; padding: 200px 0;"}
-# The Rest of the Department {background-color="#01364C"}
-:::
+![](department-wide.jpg){width="900"}
 
 ------------------------------------------------------------------------
 
@@ -225,6 +185,9 @@ North Staffordshire Combined Healthcare NHS Trust
 #### North Staffordshire Combined Healthcare NHS Trust
 
 [Callum.Furniss\@combined.nhs.uk](mailto:%20Callum.Furniss@combined.nhs.uk)
+
+**Note.** Willing to listen to research proposals regarding anything regarding neuropsychological assessment, psychometrics and related.
+
 :::
 
 ::: {.column width="80%" style="text-align: left; font-size: 16px"}
@@ -238,11 +201,11 @@ North Staffordshire Combined Healthcare NHS Trust
 
 -   Developed questionnaire for test anxiety (Feelings About Neuropsychological Testing measure FANT) and validated this in non-clinical older adults (55+).
 
--   Correlated with other measures of anxiety and subjective cognitive concerns, showing some validity
+-   Correlated with other measures of anxiety and subjective cognitive concerns, showing some validity.
 
 **Dorenkamp et al., 2023:**
 
--   Test anxiety (on FANT) predicted (regression) performance on executive functioning measures, verbal learning and memory repetition errors, visual learning, and visual learning repetition errors, but not general anxiety (GAD-7)
+-   Test anxiety (on FANT) predicted (regression) performance on executive functioning measures, verbal learning and memory repetition errors, visual learning, and visual learning repetition errors, but not general anxiety (GAD-7).
 
 #### Proposal:
 
@@ -250,7 +213,7 @@ North Staffordshire Combined Healthcare NHS Trust
 -   Aim to replicate to replicate the finding that test anxiety, but not general anxiety is related to test performance.
 -   Which cognitive areas does test anxiety impact most?
 
-**Why?** helpful to in clinical practice to inform interpretation of NP results in cases why test anxiety is high
+**Why?** helpful in clinical practice to inform interpretation of NP results in cases why test anxiety is high.
 
 #### References
 
@@ -260,9 +223,27 @@ North Staffordshire Combined Healthcare NHS Trust
 :::
 :::
 
-------------------------------------------------------------------------
+## My Primary Work Streams
 
-![](department-wide.jpg){width="900"}
+1.  Novel [**Electronic Interventions**]{style="color:#0072CE"} for Neuropsychology.
+2.  [**Data Driven**]{style="color:#0072CE"} approaches for evaluating [**Outcome Research**]{style="color:#0072CE"}.
+3.  [**Data Tools**]{style="color:#0072CE"} (apps) to improve service efficiency and quality.
+4.  Building [**Normative Data**]{style="color:#0072CE"} for neurological conditions.
+5.  [**Questionnaire**]{style="color:#0072CE"} Development (e.g., Scanxiety measure).
+5.  [**Meta Analytic**]{style="color:#0072CE"} Research.
+5.  How are [**Neuropsychological Tools**]{style="color:#0072CE"} used among clinicians (e.g., data viz, reliable change).
+
+## Examples of Works Produced {background-color="white"}
+
+::: columns
+::: {.column width="50%"}
+![HTML web application for assessing for statistical change in cognitive abilities.](Screenshot%202023-10-15%20at%2010.42.49.jpg){alt="HTML web application for assessing for statistical change in cognitive abilities."}
+:::
+
+::: {.column width="50%"}
+![Screenshot of most recent peer-reviewed journal article, published in Epilepsia.](Screenshot%202023-10-15%20at%2010.39.33.jpg){alt="Screenshot of most recent peer-reviewed journal article, published in Epilepsia."}
+:::
+:::
 
 ## Departmental Publications
 
